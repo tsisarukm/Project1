@@ -1,2 +1,2 @@
 # Project1
-Project "Information Cascades and the Spread of Conspiracy Theories"
+Project "Inequality and Growth"
