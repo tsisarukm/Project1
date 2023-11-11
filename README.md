@@ -1,2 +1,2 @@
-# Project1
+# Inequality and Growth
 Project "Inequality and Growth"
